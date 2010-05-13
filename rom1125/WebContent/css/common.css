@@ -1,0 +1,166 @@
+body 
+{
+	background-color: #EEE6C9;
+	margin: 0px;
+	padding: 0px;
+}
+
+#main
+{
+	width: 1000px;
+	height: 750px;
+	direction: rtl;
+	margin-left: auto;
+    	margin-right: auto;
+}
+
+/* beginning of header definitions */
+
+#header
+{
+	margin-top: 27px;
+}
+
+#logo
+{
+	width: 60px;
+	margin-top: 13px;
+	margin-right: 40px;
+	float: right;
+}
+
+#header_without_logo
+{
+	margin-right: 26px;
+	margin-top: 1px;
+	padding: 0px;
+	width: 834px;
+	float: right;
+}
+
+#header_top
+{
+	margin: 0px;
+	padding: 0px;
+	height: 17px;
+	float: right;
+	display: block;
+}
+
+#header_bottom
+{
+	margin: 0px;
+	padding: 0px;
+	height: 5px;
+	float: right;
+	display: block;
+}
+
+#header_bottom_image
+{
+	margin: 0px;
+	padding: 0px;
+	vertical-align: top;
+}
+
+.header_image
+{
+	margin: 0px;
+	padding: 0px;
+	height: 137px;
+	float: right;
+	display: block;
+}
+
+#toolbar_buttons
+{
+	margin-top: 11px;
+	margin-left: 13px;
+	float: right;
+}
+
+.toolbar_button
+{
+	margin: 0px 0px 2px 0px; width: 67px; height: 17px; padding: 0px; display: block;
+}
+
+/*toolbar buttons images are set as background images in order to allow rollover effect using css (no javascript) */
+#toolbar_buttons a img {width: 67px; height: 17px; margin: 0px 0px 2px 0px; display: block; border-width: 0px;}
+#toolbar_buttons a#home_link   img {background: url("../images/rom.gif") top left no-repeat;}
+#toolbar_buttons a#huts_link   img {background: url("../images/biktot.gif") top left no-repeat;}
+#toolbar_buttons a#studio_link img {background: url("../images/studio.gif") top left no-repeat;}
+#toolbar_buttons a#env_link    img {background: url("../images/sviva.gif") top left no-repeat;}
+#toolbar_buttons a#media_link  img {background: url("../images/katvu.gif") top left no-repeat;}
+#toolbar_buttons a#prices_link img {background: url("../images/mehirim.gif") top left no-repeat;}
+
+#toolbar_buttons a#home_link:hover   img {background: url("../images/rom_hl.gif") top left no-repeat;}
+#toolbar_buttons a#huts_link:hover   img {background: url("../images/biktot_hl.gif") top left no-repeat;}
+#toolbar_buttons a#studio_link:hover img {background: url("../images/studio_hl.gif") top left no-repeat;}
+#toolbar_buttons a#env_link:hover    img {background: url("../images/sviva_hl.gif") top left no-repeat;}
+#toolbar_buttons a#media_link:hover  img {background: url("../images/katvu_hl.gif") top left no-repeat;}
+#toolbar_buttons a#prices_link:hover img {background: url("../images/mehirim_hl.gif") top left no-repeat;}
+
+#email_address_div
+{
+	padding-top: 8px;
+	margin-left: auto;
+    	margin-right: auto;
+	font-family: arial, sans-serif;
+	font-size: 11px;
+	display: block;
+	text-align: center;
+	border: 0px solid #FF0000;
+	clear: both;
+}
+
+a.email_address:link, a.email_address:active, a.email_address:focus, a.email_address:visited
+{
+	color: #996600;
+	text-decoration: none;
+}
+
+a.email_address:hover
+{
+	color: #CC6600;
+	text-decoration: none;
+}
+
+/* end of header definitions */
+
+#right_part
+{
+	width: 425px;
+	margin-top: 10px;
+	margin-right: 40px;
+	float: right;
+}
+
+#vert_sep
+{
+	margin: 14px 33px 0px 33px;
+	float: right;
+	border: 0px solid #00FF00;
+}
+
+#left_part
+{
+	width: 425px;
+	margin-top: 10px;
+	margin-left: 0px;
+	float: right;
+	border: 0px solid #00FF00;
+}
+
+.sep_image
+{
+	vertical-align: top;
+	display: block;
+}
+
+#footer
+{
+	margin: 0px 50px 0px 50px;
+	padding-top: 33px;
+	float: none;
+	clear: both;
+}
