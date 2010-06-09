@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>רום 1125 - הסטודיו</title>
+  <link rel="stylesheet" href="css/common.css" type="text/css" media="screen"/>
+  <link rel="stylesheet" href="css/studio.css" type="text/css" media="screen"/>
+  <script src="js/img_gal_cc_compressed.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="main">
+<!-- header -->
+<div id="header">
+<img id="logo" src="images/logo.png"/>
+<div id="header_without_logo"><!-- The part of the header left of the logo -->
+<div id="header_top"><img src="images/header_top.png"/></div>
+<div id="toolbar_buttons">
+<a id="home_link" href="index.html"><img src="images/blank.gif"/></a>
+<a id="huts_link" href="huts.html"><img src="images/blank.gif" class="toolbar_button"/></a>
+<img src="images/studio_hl.gif"/>
+<a id="env_link" href="env.html"><img src="images/blank.gif"/></a>
+<a id="media_link" href="media.html"><img src="images/blank.gif"/></a>
+<a id="prices_link" href="prices.html"><img src="images/blank.gif"/></a>
+</div><!-- toolbar_buttons -->
+<div class="header_image"><img src="images/header_right.jpg"/></div>
+<div class="header_image"><img src="images/header_middle.png"/></div>
+<div class="header_image"><img src="images/header_left.jpg"/></div>
+<div id="header_bottom"><img id="header_bottom_image" src="images/header_bottom.png"/></div>
+</div><!-- header_without_logo-->
+<div id="email_address_div">
+<a href="mailto:rom1125@gmail.com" class="email_address">rom1125@gmail.com</a>
+</div><!-- email_address_div -->
+</div><!-- header -->
+<!-- now for the separators -->
+<div id="right_part">
+<img src="images/top_horiz_sep.png" class="sep_image"/>
+</div><!-- right -->
+<div id="top_vert_sep">
+<img src="images/top_ball.png" class="sep_image"/>
+<div id="top_vert_bar"></div>
+</div><!-- top_vert_sep -->
+<div id="left_part">
+<img src="images/top_horiz_sep.png" class="sep_image"/>
+</div><!-- left -->
+<div id="frame">
+	&nbsp;
+</div><!-- frame -->
+<div id="bottom_right_part">
+<div id="right_studio_orn">
+<img src="images/right_studio_orn.png"/>
+</div><!-- right_studio_orn -->
+<div id="right_page_text">
+<img src="images/studio_title1.png"/><br/>
+<div class="page_text">
+בסטודיו גלריה של דיאגו תפגשו ותכירו את האמן דיאגו גולדפרב,
+תהנו מתצוגת עבודותיו המתמקדות לאחרונה בנופי הגולן.
+תוכלו לרכוש מציוריו, או לקבל סדנא אישית בציור שמן על בד.
+<br/>
+<br/>
+<br/>
+<div id="studio_link">
+<a href="http://www.yessy.com/DiegoGoldfarb/"><img class="left_arrow_small" src="images/blank.gif"/><img id="studio_link_image" src="images/blank.gif"/></a>
+</div><!-- studio_link -->
+</div><!-- page_text -->
+</div><!-- right_page_text -->
+</div><!-- bottom_right_part -->
+<div id="bottom_vert_sep">
+<div id="bottom_vert_bar"></div>
+<img src="images/bottom_ball.png" class="sep_image"/>
+</div><!-- bottom_vert_sep -->
+<div id="bottom_left_part">
+<div id="left_page_text">
+<img src="images/studio_title2.png"/><br/>
+<div class="page_text">
+התנסות מיוחדת בהנחייתו הצמודה של דיאגו בהתאמה אישית
+(גם לחסרי נסיון). הסדנא בת שלוש עד ארבע שעות ובסופה ניתן לקחת את
+הציור הביתה, או לקבל אותו במשלוח. בד, צבעים ומכחולים מסופקים במקום. 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</div><!--  page text -->
+</div><!-- left_page_text -->
+<div id="left_studio_orn">
+<img src="images/left_studio_orn.png"/>
+</div><!-- left_studio_orn -->
+</div>
+<div id="footer">
+<img src="images/footer_sep.png" class="sep_image"/>
+</div><!-- footer -->
+</div><!-- main -->
+</body>
+</html>

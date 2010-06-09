@@ -55,6 +55,11 @@
 
 #hut_links a#hut2.active img {background: url("../images/hut2_hl.png") top left no-repeat;}
 
+#footer
+{
+	padding-top: 32px;
+}
+
 /* image gallery */
 #photo_frame
 {

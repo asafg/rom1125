@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>רום 1125 - מחירים</title>
+  <link rel="stylesheet" href="css/common.css" type="text/css" media="screen"/>
+  <link rel="stylesheet" href="css/studio.css" type="text/css" media="screen"/>
+</head>
+<body>
+<div id="main">
+<!-- header -->
+<div id="header">
+<img id="logo" src="images/logo.png"/>
+<div id="header_without_logo"><!-- The part of the header left of the logo -->
+<div id="header_top"><img src="images/header_top.png"/></div>
+<div id="toolbar_buttons">
+<a id="home_link" href="index.html"><img src="images/blank.gif"/></a>
+<a id="huts_link" href="huts.html"><img src="images/blank.gif"/></a>
+<a id="studio_link" href="studio.html"><img src="images/blank.gif"/></a>
+<a id="env_link" href="env.html"><img src="images/blank.gif"/></a>
+<a id="media_link" href="media.html"><img src="images/blank.gif"/></a>
+<img src="images/mehirim_hl.gif"/>
+</div><!-- toolbar_buttons -->
+<div class="header_image"><img src="images/header_right.jpg"/></div>
+<div class="header_image"><img src="images/header_middle.png"/></div>
+<div class="header_image"><img src="images/header_left.jpg"/></div>
+<div id="header_bottom"><img id="header_bottom_image" src="images/header_bottom.png"/></div>
+</div><!-- header_without_logo-->
+<div id="email_address_div">
+<a href="mailto:rom1125@gmail.com" class="email_address">rom1125@gmail.com</a>
+</div><!-- email_address_div -->
+</div><!-- header -->
+<!-- now for the separators -->
+<div id="right_part">
+<img src="images/top_horiz_sep.png" class="sep_image"/>
+</div><!-- right -->
+<div id="top_vert_sep">
+<img src="images/top_ball.png" class="sep_image"/>
+<div id="top_vert_bar"></div>
+</div><!-- top_vert_sep -->
+<div id="left_part">
+<img src="images/top_horiz_sep.png" class="sep_image"/>
+</div><!-- left -->
+<div id="frame">
+<img id="prices_wide_photo" src="images/prices_wide_photo.jpg"/>
+</div><!-- frame -->
+<div id="bottom_right_part">
+<div id="right_studio_orn">
+<img src="images/right_studio_orn.png"/>
+</div><!-- right_studio_orn -->
+<div id="right_page_text">
+<img src="images/prices_title1.png"/><br/>
+<div class="page_text">
+לילה לזוג בסופ"ש: 1,400 ₪ בהזמנת 2 לילות<br/>
+ לילה אחד לזוג בסופ"ש: 2,000 ₪<br/>
+ לילה אחד לזוג באמצ"ש: 1,200 ₪<br/>
+<br/>
+<br/>
+</div><!-- page_text -->
+</div><!-- right_page_text -->
+</div><!-- bottom_right_part -->
+<div id="bottom_vert_sep">
+<div id="bottom_vert_bar"></div>
+<img src="images/bottom_ball.png" class="sep_image"/>
+</div><!-- bottom_vert_sep -->
+<div id="bottom_left_part">
+<div id="left_page_text">
+<img src="images/prices_title2.png"/><br/>
+<div class="page_text">
+התנסות מיוחדת בהנחייתו הצמודה של דיאגו בהתאמה אישית
+(גם לחסרי נסיון). הסדנא בת שלוש עד ארבע שעות ובסופה ניתן לקחת את
+הציור הביתה, או לקבל אותו במשלוח. בד, צבעים ומכחולים מסופקים במקום. 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</div><!--  page text -->
+</div><!-- left_page_text -->
+<div id="left_studio_orn">
+<img src="images/left_studio_orn.png"/>
+</div><!-- left_studio_orn -->
+</div>
+<div id="footer">
+<img src="images/footer_sep.png" class="sep_image"/>
+</div><!-- footer -->
+</div><!-- main -->
+</body>
+</html>
