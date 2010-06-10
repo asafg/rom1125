@@ -1,0 +1,209 @@
+.page_text
+{
+	float: right;
+	width: 426px;
+	margin-top: 34px;
+	line-height: 200%;
+	font-family: arial;
+	font-size: 12px;
+	color: #330000;
+	border: 0px solid red;
+}
+
+.text_column
+{
+	background-image: url("../images/dashed_line.png");
+	background-repeat:repeat-y;
+	float: right;
+	width: 205px;
+	height: 409px;
+	border: 0px solid black;
+}
+
+#columns_spacer
+{
+	float: right;
+	width: 16px;
+	height: 409px;
+	border: 0px solid green;
+}
+
+#hut_links a img {width: 39px; height: 11px; margin: 0px; display: block; border-width: 0px;}
+
+#hut_links
+{
+	margin-top: 14px;
+}
+
+#hut_links a#hut1 img 
+{
+	background: url("../images/hut1.png") top left no-repeat;
+	float: right;
+}
+
+#hut_links a#hut2 img 
+{
+	background: url("../images/hut2.png") top left no-repeat;
+	float: left;
+}
+
+#hut_links a#hut1:hover img {background: url("../images/hut1_hl.png") top left no-repeat;}
+
+#hut_links a#hut2:hover img {background: url("../images/hut2_hl.png") top left no-repeat;}
+
+#hut_links a#hut1.active img {background: url("../images/hut1_hl.png") top left no-repeat;}
+
+#hut_links a#hut2.active img {background: url("../images/hut2_hl.png") top left no-repeat;}
+
+#footer
+{
+	padding-top: 32px;
+}
+
+/* image gallery */
+#photo_frame
+{
+	position: relative;
+	margin-top: 34px;
+	width: 425px;
+	height: 313px;
+	overflow: hidden;
+}
+
+#photo_frame img
+{
+	padding: 6px 6px 0px 0px;
+}
+
+#photo_frame_overlay
+{
+	position:absolute; top:0; left:0; width: 100%; height: 100%; z-index:998;
+	background: url("../images/frame_big.png") no-repeat center;
+}
+
+/* hide the slide show of the second hut */
+#thumbnails_panel2, #slideshow2
+{
+	display: none;
+}
+
+#thumbnails_panel1, #thumbnails_panel2
+{
+	margin-top: 11px;
+	width: 354px;
+}
+
+#upper_gallery_strip1, #upper_gallery_strip2
+{
+	margin: 12px 60px 7px 0px;
+	float: right;
+}
+
+#lower_gallery_strip1, #lower_gallery_strip2
+{
+	margin: 6px 60px 0px 0px;
+	float: right;
+}
+
+#thumbnails_toolbar1, #thumbnails_toolbar2
+{
+	margin-right: 35px;
+	width: 354px;
+}
+
+#right_arrow1, #right_arrow2
+{
+	width: 24px;
+	height: 11px;
+	margin: 24px 0px 0px 3px;
+	vertical-align: middle;
+	clear: both;
+	float: right;
+	display: block;
+	border: 0px;
+}
+
+img.right_arrow
+{
+	background: url("../images/right_arrow.gif") top left no-repeat;
+}
+
+img.right_arrow:hover 
+{
+	background: url("../images/right_arrow_hl.gif") top left no-repeat;
+}
+
+img.right_arrow_disabled
+{
+	background: url("../images/right_arrow_da.png") top left no-repeat;
+}
+
+#left_arrow1, #left_arrow2
+{
+	width: 24px;
+	height: 11px;
+	margin: 24px 3px 0px 0px;
+	float: right;
+	border: 0px;
+}
+
+img.left_arrow 
+{
+	background: url("../images/left_arrow.gif") top left no-repeat;
+}
+
+img.left_arrow:hover
+{
+	background: url("../images/left_arrow_hl.gif") top left no-repeat;
+}
+
+img.left_arrow_disabled
+{
+	background: url("../images/left_arrow_da.png") top left no-repeat;
+}
+
+#thumbnails1, #thumbnails2
+{
+	position: relative;
+	width: 300px;
+	height: 54px;
+	float: right;
+	overflow: hidden;
+}
+
+#thumbnails_wrapper1, #thumbnails_wrapper2
+{
+	position: absolute;
+	width: 420px;
+	height: 54px;
+	/*float: right;*/
+}
+
+.thumbnail
+{
+	background: url("../images/frame_small.png") no-repeat center;
+	margin-left: 3px;
+	margin-right: 3px;
+	width: 54px;
+	height: 54px;
+	float: right;
+}
+
+div.thumbnail:hover
+{
+	background: url("../images/frame_small_hl.png") no-repeat center;
+	margin-left: 3px;
+	margin-right: 3px;
+	width: 54px;
+	height: 54px;
+	float: right;
+}
+
+.thumbnail img
+{
+	margin: 4px 4px auto;
+	width: 46px;
+	height: 46px;
+	border: 1px black;
+}
+/* end of image gallery */

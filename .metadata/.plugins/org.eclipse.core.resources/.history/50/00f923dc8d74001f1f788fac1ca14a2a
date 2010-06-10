@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>רום 1125</title>
+  <link rel="stylesheet" href="css/common.css" type="text/css" media="screen"/>
+  <link rel="stylesheet" href="css/huts.css" type="text/css" media="screen"/>
+  <script src="js/img_gal_cc_compressed.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  function showHutGallery(hut) {
+	  var otherHut = (hut == 1) ? 2 : 1;
+	  $('hut' + hut).addClass('active'); 
+	  $('hut' + otherHut).removeClass('active');
+	  $('thumbnails_panel' + otherHut).setStyle('display', 'none');
+	  $('slideshow' + otherHut).setStyle('display', 'none');
+	  $('thumbnails_panel' + hut).setStyle('display', 'block');
+	  $('slideshow' + hut).setStyle('display', 'block');
+	  if (hut == 2 && hut2ImageGallery == null) {
+		  initHut2Gallery();
+	  }	  
+  }
+
+  function initHut2Gallery() {
+	  hut2ImageGallery = new ImageGallery({
+		slides: $$('#slideshow2 img'),
+		thumbnails: $$('#thumbnails_wrapper2 img'),
+		thumbnailsViewport: 'thumbnails2',
+		thumbnailsContainer: 'thumbnails_wrapper2',
+		nextThumbnailLink: 'left_arrow2',
+		prevThumbnailLink: 'right_arrow2',
+		nextThumbnailLinkClass: 'left_arrow',
+		prevThumbnailLinkClass: 'right_arrow'});
+  }
+  </script>
+</head>
+<body>
+<div id="main">
+<!-- header -->
+<div id="header">
+<img id="logo" src="images/logo.png"/>
+<div id="header_without_logo"><!-- The part of the header left of the logo -->
+<div id="header_top"><img src="images/header_top.png"/></div>
+<div id="toolbar_buttons">
+<a id="home_link" href="index.html"><img src="images/blank.gif"/></a>
+<img src="images/biktot_hl.gif"/>
+<a id="studio_link" href="studio.html"><img src="images/blank.gif"/></a>
+<a id="env_link" href="env.html"><img src="images/blank.gif"/></a>
+<a id="media_link" href="media.html"><img src="images/blank.gif"/></a>
+<a id="prices_link" href="prices.html"><img src="images/blank.gif"/></a>
+</div><!-- toolbar_buttons -->
+<div class="header_image"><img src="images/header_right.jpg"/></div>
+<div class="header_image"><img src="images/header_middle.png"/></div>
+<div class="header_image"><img src="images/header_left.jpg"/></div>
+<div id="header_bottom"><img id="header_bottom_image" src="images/header_bottom.png"/></div>
+</div><!-- header_without_logo-->
+<div id="email_address_div">
+<a href="mailto:rom1125@gmail.com" class="email_address">rom1125@gmail.com</a>
+</div><!-- email_address_div -->
+</div><!-- header -->
+<!-- now for the separators -->
+<div id="right_part">
+<img src="images/top_horiz_sep.png" class="sep_image"/>
+<div id="page_text" class="page_text">
+<div id="right_col" class="text_column">
+<b>בבקתות</b><br/>
+&gt; מטבחון עם כל הדרוש לארוחות קלות<br/>
+&gt; פינת אוכל<br/>
+&gt; סלון נעים ומרווח<br/>
+&gt; חדר הורים עם ג'קוזי גדול הצופה לנוף<br/>
+&gt; קומת גלריה עם שירותים נוספים<br/>
+&gt; שתי מרפסות<br/>
+&gt; טלויזית L.C.D עם כל הערוצים<br/>
+&gt; מערכת קולנוע ביתית וD.V.D<br/>
+&gt; אפשרות להתחבר לאינטרנט<br/>
+&gt; אח עצים<br/>
+&gt; מזגן לחימום נוסף בחורף וקירור בקיץ<br/>
+<b>פינוקים לבילוי הזמן</b><br/>
+&gt; סרטי קולנוע איכותיים<br/>
+&gt; מבחר משחקי שולחן<br/>
+&gt; ירחוני טבע, מגזינים וספרים<br/>
+&gt; פינוקי ספא אישיים<br/>
+</div><!-- right_col -->
+<div id="columns_spacer"></div>
+<div id="left_col" class="text_column">
+<b>כיבוד</b><br/>
+&gt; בקבוק יין<br/>
+&gt; שוקולדים איכותיים<br/>
+&gt; עוגיות תוצרת בית<br/>
+&gt; מיץ תפוחים טבעי<br/>
+&gt; פירות, בירות, פיצוחים ועוד<br/>
+&gt; שייק פירות או מוזלי המוכן במקום<br/>
+&gt; מכונת קפה עם קפה משובח<br/>
+<b>בתאום מראש</b><br/>
+&gt; סדנת ציור שמן על בד בסטודיו של דיאגו<br/>
+&gt; טיפולי גוף מפנקים בבקתה<br/>
+</div><!-- left_col -->
+</div><!-- page_text -->
+</div><!-- right -->
+<div id="vert_sep">
+<img src="images/top_ball.png" class="sep_image"/>
+<div id="vert_bar"></div>
+<img src="images/bottom_ball.png" class="sep_image"/>
+</div><!-- vert_sep -->
+<div id="left_part">
+<img src="images/top_horiz_sep.png" class="sep_image"/>
+<div id="hut_links">
+	<a href="#" id="hut1" onclick="showHutGallery(1)"><img src="images/blank.gif"/></a>
+	<a href="#" id="hut2" onclick="showHutGallery(2)"><img src="images/blank.gif"/></a>
+</div>
+<div id="photo_frame"><div id="photo_frame_overlay"></div>
+<div id="slideshow1">
+<img src="images/photos/hut1_1.jpg" alt="השתקפות שקיעה על חלון בקתה 1" title="השתקפות שקיעה על חלון בקתה 1"/>
+<img src="images/photos/hut1_2.jpg" alt="שקיעה עם וניל" title="שקיעה עם וניל"/>
+<img src="images/photos/hut1_3.jpg" alt="נוף מהמרפסת - עיו קניה" title="נוף מהמרפסת - עיו קניה"/>
+<img src="images/photos/hut1_4.jpg" alt="בשלג מכוון המדרגות" title="בשלג מכוון המדרגות"/>
+<img src="images/photos/hut1_5.jpg" alt="המרפסת בשלג בלילה" title="המרפסת בשלג בלילה"/>
+<img src="images/photos/hut1_6.jpg" alt="זריחה מיוחדת למקדימים להשכים" title="זריחה מיוחדת למקדימים להשכים"/>
+<img src="images/photos/hut1_7.jpg" alt="הגפן ובקתה 1 ברקע" title="הגפן ובקתה 1 ברקע"/>
+<img src="images/photos/hut1_8.jpg" alt="שקיעה משתקפת על החלון המערבי" title="שקיעה משתקפת על החלון המערבי"/>
+<img src="images/photos/hut1_9.jpg" alt="ויטראז' ועץ בחלון" title="ויטראז' ועץ בחלון"/>
+<img src="images/photos/hut1_10.jpg" alt="סלון בקתה 1" title="סלון בקתה 1"/>
+<img src="images/photos/hut1_11.jpg" alt="הסלון מהאח" title="הסלון מהאח"/>
+<img src="images/photos/hut1_12.jpg" alt="חדר שינה ועץ בחלון" title="חדר שינה ועץ בחלון"/>
+<img src="images/photos/hut1_13.jpg" alt="מטבח עם קערת פרות" title="מטבח עם קערת פרות"/>
+<img src="images/photos/hut1_14.jpg" alt="קערת דובדבנים ומוזלי ברקע הסלון" title="קערת דובדבנים ומוזלי ברקע הסלון"/>
+<img src="images/photos/hut1_15.jpg" alt="סלון" title="סלון"/>
+<img src="images/photos/hut1_16.jpg" alt="עציץ מלמטה" title="עציץ מלמטה"/>
+<img src="images/photos/hut1_17.jpg" alt="קומה עליונה ועץ בחלון" title="קומה עליונה ועץ בחלון"/>
+<img src="images/photos/hut1_18.jpg" alt="פינת ישיבה בקומה עליונה" title="פינת ישיבה בקומה עליונה"/>
+<img src="images/photos/hut1_19.jpg" alt="נוף ירוק מחלון ג'קוזי 1" title="נוף ירוק מחלון ג'קוזי 1"/>
+<img src="images/photos/hut1_20.jpg" alt="ג'קוזי וויטראז' בבקתה 1" title="ג'קוזי וויטראז' בבקתה 1"/>
+<img src="images/photos/hut1_21.jpg" alt="בקתה בצללית" title="בקתה בצללית"/>
+<img src="images/photos/hut1_22.jpg" alt="שני כיסאות לנוף בשלג" title="שני כיסאות לנוף בשלג"/>
+</div><!-- slideshow1 -->
+<div id="slideshow2">
+<img src="images/photos/photo12.jpg"/>
+<img src="images/photos/photo11.jpg"/>
+<img src="images/photos/photo12.jpg"/>
+<img src="images/photos/photo11.jpg"/>
+<img src="images/photos/photo12.jpg"/>
+<img src="images/photos/photo11.jpg"/>
+</div><!-- slideshow2 -->
+</div>
+<div id="thumbnails_panel1">
+<img id="upper_gallery_strip1" src="images/gallery_strip.png"/>
+<div id="thumbnails_toolbar1">
+<img id="right_arrow1" src="images/blank.gif" class="right_arrow"/>
+<div id="thumbnails1">
+<div id="thumbnails_wrapper1">
+<div class="thumbnail"><img src="images/photos/hut1_1.jpg" alt="השתקפות שקיעה על חלון בקתה 1" title="השתקפות שקיעה על חלון בקתה 1"/></div>
+<div class="thumbnail"><img src="images/photos/hut1_2.jpg" alt="שקיעה עם וניל" title="שקיעה עם וניל"/>
+<div class="thumbnail"><img src="images/photos/hut1_3.jpg" alt="נוף מהמרפסת - עיו קניה" title="נוף מהמרפסת - עיו קניה"/>
+<div class="thumbnail"><img src="images/photos/hut1_4.jpg" alt="בשלג מכוון המדרגות" title="בשלג מכוון המדרגות"/>
+<div class="thumbnail"><img src="images/photos/hut1_5.jpg" alt="המרפסת בשלג בלילה" title="המרפסת בשלג בלילה"/>
+<div class="thumbnail"><img src="images/photos/hut1_6.jpg" alt="זריחה מיוחדת למקדימים להשכים" title="זריחה מיוחדת למקדימים להשכים"/>
+<div class="thumbnail"><img src="images/photos/hut1_7.jpg" alt="הגפן ובקתה 1 ברקע" title="הגפן ובקתה 1 ברקע"/>
+<div class="thumbnail"><img src="images/photos/hut1_8.jpg" alt="שקיעה משתקפת על החלון המערבי" title="שקיעה משתקפת על החלון המערבי"/>
+<div class="thumbnail"><img src="images/photos/hut1_9.jpg" alt="ויטראז' ועץ בחלון" title="ויטראז' ועץ בחלון"/>
+<div class="thumbnail"><img src="images/photos/hut1_10.jpg" alt="סלון בקתה 1" title="סלון בקתה 1"/></div>
+<div class="thumbnail"><img src="images/photos/hut1_11.jpg" alt="הסלון מהאח" title="הסלון מהאח"/></div>
+<div class="thumbnail"><img src="images/photos/hut1_12.jpg" alt="חדר שינה ועץ בחלון" title="חדר שינה ועץ בחלון"/></div>
+<div class="thumbnail"><img src="images/photos/hut1_13.jpg" alt="מטבח עם קערת פרות" title="מטבח עם קערת פרות"/></div>
+<div class="thumbnail"><img src="images/photos/hut1_14.jpg" alt="קערת דובדבנים ומוזלי ברקע הסלון" title="קערת דובדבנים ומוזלי ברקע הסלון"/></div>
+<div class="thumbnail"><img src="images/photos/hut1_15.jpg" alt="סלון" title="סלון"/></div>
+<div class="thumbnail"><img src="images/photos/hut1_16.jpg" alt="עציץ מלמטה" title="עציץ מלמטה"/></div>
+<div class="thumbnail"><img src="images/photos/hut1_17.jpg" alt="קומה עליונה ועץ בחלון" title="קומה עליונה ועץ בחלון"/></div>
+<div class="thumbnail"><img src="images/photos/hut1_18.jpg" alt="פינת ישיבה בקומה עליונה" title="פינת ישיבה בקומה עליונה"/></div>
+<div class="thumbnail"><img src="images/photos/hut1_19.jpg" alt="נוף ירוק מחלון ג'קוזי 1" title="נוף ירוק מחלון ג'קוזי 1"/></div>
+<div class="thumbnail"><img src="images/photos/hut1_20.jpg" alt="ג'קוזי וויטראז' בבקתה 1" title="ג'קוזי וויטראז' בבקתה 1"/></div>
+<div class="thumbnail"><img src="images/photos/hut1_21.jpg" alt="בקתה בצללית" title="בקתה בצללית"/></div>
+<div class="thumbnail"><img src="images/photos/hut1_22.jpg" alt="שני כיסאות לנוף בשלג" title="שני כיסאות לנוף בשלג"/></div>
+
+</div><!-- thumbnails_wrapper1 -->
+</div><!-- thumbnails1 -->
+<img id="left_arrow1" src="images/blank.gif" class="left_arrow"/>
+</div><!-- thumbnails_toolbar1 -->
+<img id="lower_gallery_strip1" src="images/gallery_strip.png"/>
+</div><!-- thumbnails_panel1 -->
+<div id="thumbnails_panel2">
+<img id="upper_gallery_strip2" src="images/gallery_strip.png"/>
+<div id="thumbnails_toolbar2">
+<img id="right_arrow2" src="images/blank.gif" class="right_arrow"/>
+<div id="thumbnails2">
+<div id="thumbnails_wrapper2">
+<div class="thumbnail"><img src="images/photos/photo5_small.jpg" class="thumbnail"/></div>
+<div class="thumbnail"><img src="images/photos/photo5_small.jpg" class="thumbnail"/></div>
+<div class="thumbnail"><img src="images/photos/photo5_small.jpg" class="thumbnail"/></div>
+<div class="thumbnail"><img src="images/photos/photo5_small.jpg" class="thumbnail"/></div>
+<div class="thumbnail"><img src="images/photos/photo5_small.jpg" class="thumbnail"/></div>
+<div class="thumbnail"><img src="images/photos/photo6_small.jpg" class="thumbnail"/></div>
+<div class="thumbnail"><img src="images/photos/photo6_small.jpg" class="thumbnail"/></div>
+</div><!-- thumbnails_wrapper -->
+</div><!-- thumbnails -->
+<img id="left_arrow2" src="images/blank.gif" class="left_arrow"/>
+</div><!-- thumbnails_toolbar2 -->
+<img id="lower_gallery_strip2" src="images/gallery_strip.png"/>
+</div><!-- thumbnails_panel2 -->
+</div><!-- left -->
+<div id="footer">
+<img src="images/footer_sep.png" class="sep_image"/>
+</div><!-- footer -->
+</div><!-- main -->
+<script type="text/javascript">
+var hut1ImageGallery = new ImageGallery({
+	slides: $$('#slideshow1 img'),
+	thumbnails: $$('#thumbnails_wrapper1 img'),
+	thumbnailsViewport: 'thumbnails1',
+	thumbnailsContainer: 'thumbnails_wrapper1',
+	nextThumbnailLink: 'left_arrow1',
+	prevThumbnailLink: 'right_arrow1',
+	nextThumbnailLinkClass: 'left_arrow',
+	prevThumbnailLinkClass: 'right_arrow'
+});
+
+var hut2ImageGallery = null;
+
+showHutGallery(1);
+</script>
+</body>
+</html>

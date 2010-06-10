@@ -174,7 +174,7 @@ img.left_arrow_disabled
 #thumbnails_wrapper1, #thumbnails_wrapper2
 {
 	position: absolute;
-	width: 420px;
+	width: 1320px;
 	height: 54px;
 	/*float: right;*/
 }
@@ -199,7 +199,7 @@ div.thumbnail:hover
 	float: right;
 }
 
-img.thumbnail
+.thumbnail img
 {
 	margin: 4px 4px auto;
 	width: 46px;
