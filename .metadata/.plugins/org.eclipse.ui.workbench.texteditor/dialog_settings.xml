@@ -2,29 +2,32 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item value="341" key="DIALOG_WIDTH"/>
-		<item value="199" key="DIALOG_Y_ORIGIN"/>
-		<item value="962" key="DIALOG_X_ORIGIN"/>
+		<item value="374" key="DIALOG_Y_ORIGIN"/>
 		<item value="454" key="DIALOG_HEIGHT"/>
+		<item value="406" key="DIALOG_X_ORIGIN"/>
 		<item value="1|Sans|10.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="wrap"/>
-		<item value="false" key="casesensitive"/>
 		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="img.th" key="selection"/>
+		<item value="" key="selection"/>
 		<list key="findhistory">
-			<item value="img.th"/>
+			<item value="#frame"/>
 			<item value="/photos/"/>
+			<item value="/&gt;"/>
+			<item value="&lt;img"/>
 			<item value="צימר"/>
+			<item value="img.th"/>
 			<item value="&quot; class=&quot;thumbnail&quot;"/>
 			<item value=" class=&quot;thumbnail&quot;"/>
-			<item value=".sep_image"/>
-			<item value="#footer"/>
 		</list>
 		<list key="replacehistory">
 			<item value="/thumbs/"/>
+			<item value="/&gt;&lt;/div&gt;"/>
+			<item value="&lt;div class=&quot;thumbnail&quot;&gt;&lt;img"/>
 			<item value="בקתה"/>
 			<item value="&quot;"/>
 			<item value=""/>
