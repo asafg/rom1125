@@ -7,7 +7,19 @@
 	padding: 0;
 }
 
-#prices_wide_photo
+#frame img 
+{
+	display: block;
+	float: right;
+	margin: 8px 5px 0 0;
+}
+
+#frame img.first_photo
+{
+	margin-right: 77px;
+}
+
+img#prices_wide_photo
 {
 	margin: 6px 76px;
 }
