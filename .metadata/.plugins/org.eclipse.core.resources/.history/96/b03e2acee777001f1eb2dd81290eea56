@@ -173,12 +173,3 @@ a.email_address:hover
 {
 	display: none;
 }
-
-.currentSlide
-{
-	/*
-	display: block;
-	opacity: 1;
-	visibility: visible;
-	*/
-}

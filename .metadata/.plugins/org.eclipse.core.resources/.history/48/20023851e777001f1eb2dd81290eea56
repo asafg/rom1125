@@ -66,27 +66,27 @@
 <div id="photo_frame"><div id="photo_frame_overlay"></div>
 <div id="slideshow">
 <img src="images/photos/main1.jpg" alt="זריחה בגוונים צהובים" title="זריחה בגוונים צהובים"/>
-<img src="images/photos/main2.jpg" class="invisible" alt="שקיעה עם וניל" title="שקיעה עם וניל"/>
-<img src="images/photos/main3.jpg" class="invisible"  alt="מבט למבצר נמרוד מתוך הספסל" title="מבט למבצר נמרוד מתוך הספסל"/>
-<img src="images/photos/main4.jpg" class="invisible"  alt="זריחה על החלונות המזרחיים" title="זריחה על החלונות המזרחיים"/>
-<img src="images/photos/main5.jpg" class="invisible"  alt="כיסא עמוד ונוף" title="כיסא עמוד ונוף"/>
-<img src="images/photos/main6.jpg" class="invisible"  alt="הנוף מהחלון שליד הג'קוזי בבקתה 2" title="הנוף מהחלון שליד הג'קוזי בבקתה 2"/>
-<img src="images/photos/main7.jpg" class="invisible"  alt="הבקתות מרחוק בין שני ברושים" title="הבקתות מרחוק בין שני ברושים"/>
-<img src="images/photos/main8.jpg" class="invisible"  alt="בקתה מעבר לברוש בשלג" title="בקתה מעבר לברוש בשלג"/>
-<img src="images/photos/main9.jpg" class="invisible"  alt="אח עצים דולק" title="אח עצים דולק"/>
-<img src="images/photos/main10.jpg" class="invisible"  alt="בקתה 2 עם עננים והרי נפתלי ממול" title="בקתה 2 עם עננים והרי נפתלי ממול"/>
-<img src="images/photos/main11.jpg" class="invisible"  alt="חדר מדרגות" title="חדר מדרגות"/>
-<img src="images/photos/main12.jpg" class="invisible"  alt="חדר אוכל בקתה 2" title="חדר אוכל בקתה 2"/>
-<img src="images/photos/main13.jpg" class="invisible"  alt="מטבח בקתה 2" title="מטבח בקתה 2"/>
-<img src="images/photos/main14.jpg" class="invisible"  alt="נוף ירוק מחלון ג'קוזי בקתה 1" title="נוף ירוק מחלון ג'קוזי בקתה 1"/>
-<img src="images/photos/main15.jpg" class="invisible"  alt="ויטראז' חדר מדרגות" title="ויטראז' חדר מדרגות"/>
-<img src="images/photos/main16.jpg" class="invisible"  alt="חדר שינה" title="חדר שינה"/>
-<img src="images/photos/main17.jpg" class="invisible"  alt="סלון בקתה 1" title="סלון בקתה 1"/>
-<img src="images/photos/main18.jpg" class="invisible"  alt="שקיעה בין ענפי העץ" title="שקיעה בין ענפי העץ"/>
-<img src="images/photos/main19.jpg" class="invisible"  alt="הבקתה מבחוץ" title="הבקתה מבחוץ"/>
-<img src="images/photos/main20.jpg" class="invisible"  alt="נמרוד על הרכס מבין ענפי הזית בנבי חזורי" title="נמרוד על הרכס מבין ענפי הזית בנבי חזורי"/>
-<img src="images/photos/main21.jpg" class="invisible"  alt="ציור של דיאגו - מבצר נמרוד" title="ציור של דיאגו - מבצר נמרוד"/>
-<img src="images/photos/main22.jpg" class="invisible"  alt="קטיף פירות מהגינה שלנו" title="קטיף פירות מהגינה שלנו"/>
+<img src="images/photos/main2.jpg" alt="שקיעה עם וניל" title="שקיעה עם וניל"/>
+<img src="images/photos/main3.jpg" alt="מבט למבצר נמרוד מתוך הספסל" title="מבט למבצר נמרוד מתוך הספסל"/>
+<img src="images/photos/main4.jpg" alt="זריחה על החלונות המזרחיים" title="זריחה על החלונות המזרחיים"/>
+<img src="images/photos/main5.jpg" alt="כיסא עמוד ונוף" title="כיסא עמוד ונוף"/>
+<img src="images/photos/main6.jpg" alt="הנוף מהחלון שליד הג'קוזי בבקתה 2" title="הנוף מהחלון שליד הג'קוזי בבקתה 2"/>
+<img src="images/photos/main7.jpg" alt="הבקתות מרחוק בין שני ברושים" title="הבקתות מרחוק בין שני ברושים"/>
+<img src="images/photos/main8.jpg" alt="בקתה מעבר לברוש בשלג" title="בקתה מעבר לברוש בשלג"/>
+<img src="images/photos/main9.jpg" alt="אח עצים דולק" title="אח עצים דולק"/>
+<img src="images/photos/main10.jpg" alt="בקתה 2 עם עננים והרי נפתלי ממול" title="בקתה 2 עם עננים והרי נפתלי ממול"/>
+<img src="images/photos/main11.jpg" alt="חדר מדרגות" title="חדר מדרגות"/>
+<img src="images/photos/main12.jpg" alt="חדר אוכל בקתה 2" title="חדר אוכל בקתה 2"/>
+<img src="images/photos/main13.jpg" alt="מטבח בקתה 2" title="מטבח בקתה 2"/>
+<img src="images/photos/main14.jpg" alt="נוף ירוק מחלון ג'קוזי בקתה 1" title="נוף ירוק מחלון ג'קוזי בקתה 1"/>
+<img src="images/photos/main15.jpg" alt="ויטראז' חדר מדרגות" title="ויטראז' חדר מדרגות"/>
+<img src="images/photos/main16.jpg" alt="חדר שינה" title="חדר שינה"/>
+<img src="images/photos/main17.jpg" alt="סלון בקתה 1" title="סלון בקתה 1"/>
+<img src="images/photos/main18.jpg" alt="שקיעה בין ענפי העץ" title="שקיעה בין ענפי העץ"/>
+<img src="images/photos/main19.jpg" alt="הבקתה מבחוץ" title="הבקתה מבחוץ"/>
+<img src="images/photos/main20.jpg" alt="נמרוד על הרכס מבין ענפי הזית בנבי חזורי" title="נמרוד על הרכס מבין ענפי הזית בנבי חזורי"/>
+<img src="images/photos/main21.jpg" alt="ציור של דיאגו - מבצר נמרוד" title="ציור של דיאגו - מבצר נמרוד"/>
+<img src="images/photos/main22.jpg" alt="קטיף פירות מהגינה שלנו" title="קטיף פירות מהגינה שלנו"/>
 </div><!-- slide show -->
 </div>
 <div id="thumbnails_panel">

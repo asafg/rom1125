@@ -168,17 +168,3 @@ a.email_address:hover
 	float: none;
 	clear: both;
 }
-
-.invisible
-{
-	display: none;
-}
-
-.currentSlide
-{
-	/*
-	display: block;
-	opacity: 1;
-	visibility: visible;
-	*/
-}

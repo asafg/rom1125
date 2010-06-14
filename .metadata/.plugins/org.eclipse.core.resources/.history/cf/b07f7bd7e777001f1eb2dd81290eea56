@@ -176,9 +176,6 @@ a.email_address:hover
 
 .currentSlide
 {
-	/*
 	display: block;
 	opacity: 1;
-	visibility: visible;
-	*/
 }

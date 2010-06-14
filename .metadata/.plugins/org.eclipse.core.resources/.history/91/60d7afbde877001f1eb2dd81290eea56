@@ -201,7 +201,7 @@
 </div><!-- thumbnails_toolbar1 -->
 <img id="lower_gallery_strip1" src="images/gallery_strip.png"/>
 </div><!-- thumbnails_panel1 -->
-<div id="thumbnails_panel2" class="invisible">
+<div id="thumbnails_panel2">
 <img id="upper_gallery_strip2" src="images/gallery_strip.png"/>
 <div id="thumbnails_toolbar2">
 <img id="right_arrow2" src="images/blank.gif" class="right_arrow"/>

@@ -119,51 +119,51 @@
 <div id="photo_frame"><div id="photo_frame_overlay"></div>
 <div id="slideshow1">
 <img src="images/photos/hut1_1.jpg" alt="השתקפות שקיעה על חלון בקתה 1" title="השתקפות שקיעה על חלון בקתה 1"/>
-<img src="images/photos/hut1_2.jpg" class="invisible"  alt="שקיעה עם וניל" title="שקיעה עם וניל"/>
-<img src="images/photos/hut1_3.jpg" class="invisible"  alt="נוף מהמרפסת - עיו קניה" title="נוף מהמרפסת - עיו קניה"/>
-<img src="images/photos/hut1_4.jpg" class="invisible"  alt="בשלג מכוון המדרגות" title="בשלג מכוון המדרגות"/>
-<img src="images/photos/hut1_5.jpg" class="invisible"  alt="המרפסת בשלג בלילה" title="המרפסת בשלג בלילה"/>
-<img src="images/photos/hut1_6.jpg" class="invisible"  alt="זריחה מיוחדת למקדימים להשכים" title="זריחה מיוחדת למקדימים להשכים"/>
-<img src="images/photos/hut1_7.jpg" class="invisible"  alt="הגפן ובקתה 1 ברקע" title="הגפן ובקתה 1 ברקע"/>
-<img src="images/photos/hut1_8.jpg" class="invisible"  alt="שקיעה משתקפת על החלון המערבי" title="שקיעה משתקפת על החלון המערבי"/>
-<img src="images/photos/hut1_9.jpg" class="invisible"  alt="ויטראז' ועץ בחלון" title="ויטראז' ועץ בחלון"/>
-<img src="images/photos/hut1_10.jpg" class="invisible"  alt="סלון בקתה 1" title="סלון בקתה 1"/>
-<img src="images/photos/hut1_11.jpg" class="invisible"  alt="הסלון מהאח" title="הסלון מהאח"/>
-<img src="images/photos/hut1_12.jpg" class="invisible"  alt="חדר שינה ועץ בחלון" title="חדר שינה ועץ בחלון"/>
-<img src="images/photos/hut1_13.jpg" class="invisible"  alt="מטבח עם קערת פרות" title="מטבח עם קערת פרות"/>
-<img src="images/photos/hut1_14.jpg" class="invisible"  alt="קערת דובדבנים ומוזלי ברקע הסלון" title="קערת דובדבנים ומוזלי ברקע הסלון"/>
-<img src="images/photos/hut1_15.jpg" class="invisible"  alt="סלון" title="סלון"/>
-<img src="images/photos/hut1_16.jpg" class="invisible"  alt="עציץ מלמטה" title="עציץ מלמטה"/>
-<img src="images/photos/hut1_17.jpg" class="invisible"  alt="קומה עליונה ועץ בחלון" title="קומה עליונה ועץ בחלון"/>
-<img src="images/photos/hut1_18.jpg" class="invisible"  alt="פינת ישיבה בקומה עליונה" title="פינת ישיבה בקומה עליונה"/>
-<img src="images/photos/hut1_19.jpg" class="invisible"  alt="נוף ירוק מחלון ג'קוזי 1" title="נוף ירוק מחלון ג'קוזי 1"/>
-<img src="images/photos/hut1_20.jpg" class="invisible"  alt="ג'קוזי וויטראז' בבקתה 1" title="ג'קוזי וויטראז' בבקתה 1"/>
-<img src="images/photos/hut1_21.jpg" class="invisible"  alt="בקתה בצללית" title="בקתה בצללית"/>
-<img src="images/photos/hut1_22.jpg" class="invisible"  alt="שני כיסאות לנוף בשלג" title="שני כיסאות לנוף בשלג"/>
+<img src="images/photos/hut1_2.jpg" alt="שקיעה עם וניל" title="שקיעה עם וניל"/>
+<img src="images/photos/hut1_3.jpg" alt="נוף מהמרפסת - עיו קניה" title="נוף מהמרפסת - עיו קניה"/>
+<img src="images/photos/hut1_4.jpg" alt="בשלג מכוון המדרגות" title="בשלג מכוון המדרגות"/>
+<img src="images/photos/hut1_5.jpg" alt="המרפסת בשלג בלילה" title="המרפסת בשלג בלילה"/>
+<img src="images/photos/hut1_6.jpg" alt="זריחה מיוחדת למקדימים להשכים" title="זריחה מיוחדת למקדימים להשכים"/>
+<img src="images/photos/hut1_7.jpg" alt="הגפן ובקתה 1 ברקע" title="הגפן ובקתה 1 ברקע"/>
+<img src="images/photos/hut1_8.jpg" alt="שקיעה משתקפת על החלון המערבי" title="שקיעה משתקפת על החלון המערבי"/>
+<img src="images/photos/hut1_9.jpg" alt="ויטראז' ועץ בחלון" title="ויטראז' ועץ בחלון"/>
+<img src="images/photos/hut1_10.jpg" alt="סלון בקתה 1" title="סלון בקתה 1"/>
+<img src="images/photos/hut1_11.jpg" alt="הסלון מהאח" title="הסלון מהאח"/>
+<img src="images/photos/hut1_12.jpg" alt="חדר שינה ועץ בחלון" title="חדר שינה ועץ בחלון"/>
+<img src="images/photos/hut1_13.jpg" alt="מטבח עם קערת פרות" title="מטבח עם קערת פרות"/>
+<img src="images/photos/hut1_14.jpg" alt="קערת דובדבנים ומוזלי ברקע הסלון" title="קערת דובדבנים ומוזלי ברקע הסלון"/>
+<img src="images/photos/hut1_15.jpg" alt="סלון" title="סלון"/>
+<img src="images/photos/hut1_16.jpg" alt="עציץ מלמטה" title="עציץ מלמטה"/>
+<img src="images/photos/hut1_17.jpg" alt="קומה עליונה ועץ בחלון" title="קומה עליונה ועץ בחלון"/>
+<img src="images/photos/hut1_18.jpg" alt="פינת ישיבה בקומה עליונה" title="פינת ישיבה בקומה עליונה"/>
+<img src="images/photos/hut1_19.jpg" alt="נוף ירוק מחלון ג'קוזי 1" title="נוף ירוק מחלון ג'קוזי 1"/>
+<img src="images/photos/hut1_20.jpg" alt="ג'קוזי וויטראז' בבקתה 1" title="ג'קוזי וויטראז' בבקתה 1"/>
+<img src="images/photos/hut1_21.jpg" alt="בקתה בצללית" title="בקתה בצללית"/>
+<img src="images/photos/hut1_22.jpg" alt="שני כיסאות לנוף בשלג" title="שני כיסאות לנוף בשלג"/>
 </div><!-- slideshow1 -->
 <div id="slideshow2">
-<img src="images/photos/hut2_1.jpg" class="invisible"  alt="שני כסאות בשקיעה" title="שני כסאות בשקיעה"/>
-<img src="images/photos/hut2_2.jpg" class="invisible"  alt="השתקפות הנוף על חלון בקתה 2" title="השתקפות הנוף על חלון בקתה 2"/>
-<img src="images/photos/hut2_3.jpg" class="invisible"  alt="בקתה בודדת בסופה" title="בקתה בודדת בסופה"/>
-<img src="images/photos/hut2_4.jpg" class="invisible"  alt="הבקתה בצללית עם שמים כתומים" title="הבקתה בצללית עם שמים כתומים"/>
-<img src="images/photos/hut2_5.jpg" class="invisible"  alt="כיסא נדנדה בשקיעה" title="כיסא נדנדה בשקיעה"/>
-<img src="images/photos/hut2_6.jpg" class="invisible"  alt="בקתה 2 בשלג" title="בקתה 2 בשלג"/>
-<img src="images/photos/hut2_7.jpg" class="invisible"  alt="אח עצים דולק" title="אח עצים דולק"/>
-<img src="images/photos/hut2_8.jpg" class="invisible"  alt="נמרוד על הרכס עם ברק על חלון בקתה 2" title="נמרוד על הרכס עם ברק על חלון בקתה 2"/>
-<img src="images/photos/hut2_9.jpg" class="invisible"  alt="נוף ממרפסת בקתה 2" title="נוף ממרפסת בקתה 2"/>
-<img src="images/photos/hut2_10.jpg" class="invisible"  alt="שני כסאות מול הנוף" title="שני כסאות מול הנוף"/>
-<img src="images/photos/hut2_11.jpg" class="invisible"  alt="ספסל עם מבצר נמרוד ברקע" title="ספסל עם מבצר נמרוד ברקע"/>
-<img src="images/photos/hut2_12.jpg" class="invisible"  alt="הבקתות מרחוק עם הסוסים" title="הבקתות מרחוק עם הסוסים"/>
-<img src="images/photos/hut2_13.jpg" class="invisible"  alt="אשכול דומדמניות אדומות" title="אשכול דומדמניות אדומות"/>
-<img src="images/photos/hut2_14.jpg" class="invisible"  alt="מבט לסלון מחדר השינה בבקתה 2" title="מבט לסלון מחדר השינה בבקתה 2"/>
-<img src="images/photos/hut2_15.jpg" class="invisible"  alt="נוף מחלון המדרגות בבקתה 2" title="נוף מחלון המדרגות בבקתה 2"/>
-<img src="images/photos/hut2_16.jpg" class="invisible"  alt="חדר אוכל ומטבח בבקתה 2" title="חדר אוכל ומטבח בבקתה 2"/>
-<img src="images/photos/hut2_17.jpg" class="invisible"  alt="בקתה 2 מעבר לגדר האסנה" title="בקתה 2 מעבר לגדר האסנה"/>
-<img src="images/photos/hut2_18.jpg" class="invisible"  alt="ויטראז' בקתה 2" title="ויטראז' בקתה 2"/>
-<img src="images/photos/hut2_19.jpg" class="invisible"  alt="קערת דובדבנים  ומוזלי" title="קערת דובדבנים  ומוזלי"/>
-<img src="images/photos/hut2_20.jpg" class="invisible"  alt="בקתה 2 בשקיעה" title="בקתה 2 בשקיעה"/>
-<img src="images/photos/hut2_21.jpg" class="invisible"  alt="השתקפות שקיעה בחלון בקתה 2" title="השתקפות שקיעה בחלון בקתה 2"/>
-<img src="images/photos/hut2_22.jpg" class="invisible"  alt="נוף מהמרפסת" title="נוף מהמרפסת"/>
+<img src="images/photos/hut2_1.jpg" alt="שני כסאות בשקיעה" title="שני כסאות בשקיעה"/>
+<img src="images/photos/hut2_2.jpg" alt="השתקפות הנוף על חלון בקתה 2" title="השתקפות הנוף על חלון בקתה 2"/>
+<img src="images/photos/hut2_3.jpg" alt="בקתה בודדת בסופה" title="בקתה בודדת בסופה"/>
+<img src="images/photos/hut2_4.jpg" alt="הבקתה בצללית עם שמים כתומים" title="הבקתה בצללית עם שמים כתומים"/>
+<img src="images/photos/hut2_5.jpg" alt="כיסא נדנדה בשקיעה" title="כיסא נדנדה בשקיעה"/>
+<img src="images/photos/hut2_6.jpg" alt="בקתה 2 בשלג" title="בקתה 2 בשלג"/>
+<img src="images/photos/hut2_7.jpg" alt="אח עצים דולק" title="אח עצים דולק"/>
+<img src="images/photos/hut2_8.jpg" alt="נמרוד על הרכס עם ברק על חלון בקתה 2" title="נמרוד על הרכס עם ברק על חלון בקתה 2"/>
+<img src="images/photos/hut2_9.jpg" alt="נוף ממרפסת בקתה 2" title="נוף ממרפסת בקתה 2"/>
+<img src="images/photos/hut2_10.jpg" alt="שני כסאות מול הנוף" title="שני כסאות מול הנוף"/>
+<img src="images/photos/hut2_11.jpg" alt="ספסל עם מבצר נמרוד ברקע" title="ספסל עם מבצר נמרוד ברקע"/>
+<img src="images/photos/hut2_12.jpg" alt="הבקתות מרחוק עם הסוסים" title="הבקתות מרחוק עם הסוסים"/>
+<img src="images/photos/hut2_13.jpg" alt="אשכול דומדמניות אדומות" title="אשכול דומדמניות אדומות"/>
+<img src="images/photos/hut2_14.jpg" alt="מבט לסלון מחדר השינה בבקתה 2" title="מבט לסלון מחדר השינה בבקתה 2"/>
+<img src="images/photos/hut2_15.jpg" alt="נוף מחלון המדרגות בבקתה 2" title="נוף מחלון המדרגות בבקתה 2"/>
+<img src="images/photos/hut2_16.jpg" alt="חדר אוכל ומטבח בבקתה 2" title="חדר אוכל ומטבח בבקתה 2"/>
+<img src="images/photos/hut2_17.jpg" alt="בקתה 2 מעבר לגדר האסנה" title="בקתה 2 מעבר לגדר האסנה"/>
+<img src="images/photos/hut2_18.jpg" alt="ויטראז' בקתה 2" title="ויטראז' בקתה 2"/>
+<img src="images/photos/hut2_19.jpg" alt="קערת דובדבנים  ומוזלי" title="קערת דובדבנים  ומוזלי"/>
+<img src="images/photos/hut2_20.jpg" alt="בקתה 2 בשקיעה" title="בקתה 2 בשקיעה"/>
+<img src="images/photos/hut2_21.jpg" alt="השתקפות שקיעה בחלון בקתה 2" title="השתקפות שקיעה בחלון בקתה 2"/>
+<img src="images/photos/hut2_22.jpg" alt="נוף מהמרפסת" title="נוף מהמרפסת"/>
 </div><!-- slideshow2 -->
 </div>
 <div id="thumbnails_panel1">
@@ -201,7 +201,7 @@
 </div><!-- thumbnails_toolbar1 -->
 <img id="lower_gallery_strip1" src="images/gallery_strip.png"/>
 </div><!-- thumbnails_panel1 -->
-<div id="thumbnails_panel2" class="invisible">
+<div id="thumbnails_panel2">
 <img id="upper_gallery_strip2" src="images/gallery_strip.png"/>
 <div id="thumbnails_toolbar2">
 <img id="right_arrow2" src="images/blank.gif" class="right_arrow"/>
