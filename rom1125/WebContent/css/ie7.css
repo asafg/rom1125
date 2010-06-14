@@ -1,0 +1,30 @@
+div#bottom_left_part
+{
+	width: 429px;
+}
+
+/* hack - IE7 adds extra height to the div without this border.
+ * The border's color is set to the background color, thus making it effectively invisible.
+ */
+#email_address_div
+{
+	padding: 8px 0px 0px 0px;
+	height: 14px;
+}
+
+.left_text
+{
+	margin-right: 44px;
+}
+
+/* ugly hack - push the ornament right 33 pixels */
+#left_studio_orn
+{
+	float: right;
+	margin-right: -28px;
+}
+
+#footer
+{
+	height: 13px;
+}
