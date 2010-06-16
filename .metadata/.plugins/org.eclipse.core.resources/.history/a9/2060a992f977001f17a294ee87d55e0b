@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="description" content="צימרים ברמת הגולן שנבחרו בקפידה במיוחד עבורכם צימרים בגולן יוקרתיים ומובחרים לחופשת צימרים מושלמת." />
+  <meta name="keywords" content="רום 1125, רום 1125 נמרוד, נמרוד, נימרוד, צימרים ברמת הגולן
+, צימר ברמת הגולן, צימרים רמת הגולן, צימר רמת הגולן, רמת הגולן,צימרים בגולן,צימר, צימרים, צימרים רומנטיים,
+ צימרים בצפון, צימרים בגליל,צימרים יוקרתיים, צימרים יוקרתיים ברמת הגולן,צימרים ברמת הגולן למשפחות, צימרים לזוגות ברמת הגולן, צימרים למשפחות גדולות,
+ צימרים יוקרתיים למשפחות, צימרים יוקרתיים לזוגות, צימרים יוקרתיים בצפון, צימרים רומנטיים, צימרים בחרמון, צימרים ליד החרמון
+, צימרים באזור החרמון, צימרים עם שלג, צימרים עם נוף, צימרים מבודדים, צימרים בנמרוד, צימרים הכי יפים, צימרים הכי יוקרתיים,
+, צימרים עם ארוחת בוקר, קדירת המכשפה והחלבן, צימרים מפנקים, צימרים עם פרות יער, צימר בוטיק, מלון בוטיק, 
+צימרים למסיבת רווקות, צימרים מומלצים, צימרים עם ילדים, צימרים לפי מחיר, בקתות עץ, בקתות עץ יוקרתיות."/>
+  <title>רום 1125</title>
+  <link rel="stylesheet" href="css/common.css" type="text/css" media="screen"/>
+  <link rel="stylesheet" href="css/home.css" type="text/css" media="screen"/>
+  <!--[if lte IE 7]>
+  <link rel="stylesheet" href="css/ie7.css" type="text/css" media="screen"/>
+  <![endif]-->
+  <script src="js/img_gal_cc_compressed.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="main">
+<!-- header -->
+<div id="header">
+<img id="logo" alt="rom1125" src="images/logo.png"/>
+<div id="header_without_logo"><!-- The part of the header left of the logo -->
+<div id="header_top"><img src="images/header_top.png"/></div>
+<div id="toolbar_buttons">
+<img src="images/rom_hl.gif"/>
+<a id="huts_link" href="huts.html"><img src="images/blank.gif"/></a>
+<a id="studio_link" href="studio.html"><img src="images/blank.gif"/></a>
+<img src="images/sviva.gif"/>
+<img src="images/katvu.gif"/>
+<a id="prices_link" href="prices.html"><img src="images/blank.gif"/></a>
+</div><!-- toolbar_buttons -->
+<div class="header_image"><img src="images/header_right.jpg"/></div>
+<div class="header_image"><img src="images/header_middle.png"/></div>
+<div class="header_image"><img src="images/header_left.jpg"/></div>
+<div id="header_bottom"><img id="header_bottom_image" src="images/header_bottom.png"/></div>
+</div><!-- header_without_logo-->
+<div id="email_address_div">
+<a href="mailto:rom1125@gmail.com" class="email_address">rom1125@gmail.com</a>
+</div><!-- email_address_div -->
+</div><!-- header -->
+<!-- now for the separators -->
+<div id="right_part">
+<img src="images/top_horiz_sep.png" class="sep_image"/>
+<div id="page_text" class="page_text">
+ברום 1125 מ' מעל פני הים, נמצא הישוב נמרוד המונה שבע משפחות.
+‫בפסגתו... שתי בקתות חלומיות, הצופות לנוף עוצר נשימה. מיקומן של‬
+‫הבקתות היושבות על חודה של נמרוד, אל מול מרחבי הנוף הפתוח, חלונות‬
+     ‫פנורמיים המזמינים שקיעות מרהיבות לשפוך את אורן האדום אל תוך‬
+    ‫הבקתות, קרירות נעימה בקיץ, השלכת בסתיו, שלג בחורף, הדובדבנים‬
+       ‫ופירות היער באביב, כל אלה ועוד... הנוף, הנוף והנוף. מבטיחים לכם‬
+   ‫חופשה מיוחדת במינה וחווית טבע נדירה בעוצמתה. הבקתות, מעוצבות‬
+     ‫בתשומת לב מיוחדת ואישית ומאובזרות ברמה גבוהה מאוד. הבקתות‬
+                                             ‫מתאימות לזוגות ולמשפחות.‬
+<img id="house_drawing" src="images/house.png"/>
+</div><!-- page_text -->
+</div><!-- right -->
+<div id="vert_sep">
+<img src="images/top_ball.png" class="sep_image"/>
+<div id="vert_bar"></div>
+<img src="images/bottom_ball.png" class="sep_image"/>
+</div><!-- vert_sep -->
+<div id="left_part">
+<img src="images/top_horiz_sep.png" class="sep_image"/>
+<div id="photo_frame"><div id="photo_frame_overlay"></div>
+<div id="slideshow">
+<img src="images/photos/main1.jpg" alt="זריחה בגוונים צהובים" title="זריחה בגוונים צהובים"/>
+<img src="images/photos/main2.jpg" class="invisible" alt="שקיעה עם וניל" title="שקיעה עם וניל"/>
+<img src="images/photos/main3.jpg" class="invisible"  alt="מבט למבצר נמרוד מתוך הספסל" title="מבט למבצר נמרוד מתוך הספסל"/>
+<img src="images/photos/main4.jpg" class="invisible"  alt="זריחה על החלונות המזרחיים" title="זריחה על החלונות המזרחיים"/>
+<img src="images/photos/main5.jpg" class="invisible"  alt="כיסא עמוד ונוף" title="כיסא עמוד ונוף"/>
+<img src="images/photos/main6.jpg" class="invisible"  alt="הנוף מהחלון שליד הג'קוזי בבקתה 2" title="הנוף מהחלון שליד הג'קוזי בבקתה 2"/>
+<img src="images/photos/main7.jpg" class="invisible"  alt="הבקתות מרחוק בין שני ברושים" title="הבקתות מרחוק בין שני ברושים"/>
+<img src="images/photos/main8.jpg" class="invisible"  alt="בקתה מעבר לברוש בשלג" title="בקתה מעבר לברוש בשלג"/>
+<img src="images/photos/main9.jpg" class="invisible"  alt="אח עצים דולק" title="אח עצים דולק"/>
+<img src="images/photos/main10.jpg" class="invisible"  alt="בקתה 2 עם עננים והרי נפתלי ממול" title="בקתה 2 עם עננים והרי נפתלי ממול"/>
+<img src="images/photos/main11.jpg" class="invisible"  alt="חדר מדרגות" title="חדר מדרגות"/>
+<img src="images/photos/main12.jpg" class="invisible"  alt="חדר אוכל בקתה 2" title="חדר אוכל בקתה 2"/>
+<img src="images/photos/main13.jpg" class="invisible"  alt="מטבח בקתה 2" title="מטבח בקתה 2"/>
+<img src="images/photos/main14.jpg" class="invisible"  alt="נוף ירוק מחלון ג'קוזי בקתה 1" title="נוף ירוק מחלון ג'קוזי בקתה 1"/>
+<img src="images/photos/main15.jpg" class="invisible"  alt="ויטראז' חדר מדרגות" title="ויטראז' חדר מדרגות"/>
+<img src="images/photos/main16.jpg" class="invisible"  alt="חדר שינה" title="חדר שינה"/>
+<img src="images/photos/main17.jpg" class="invisible"  alt="סלון בקתה 1" title="סלון בקתה 1"/>
+<img src="images/photos/main18.jpg" class="invisible"  alt="שקיעה בין ענפי העץ" title="שקיעה בין ענפי העץ"/>
+<img src="images/photos/main19.jpg" class="invisible"  alt="הבקתה מבחוץ" title="הבקתה מבחוץ"/>
+<img src="images/photos/main20.jpg" class="invisible"  alt="נמרוד על הרכס מבין ענפי הזית בנבי חזורי" title="נמרוד על הרכס מבין ענפי הזית בנבי חזורי"/>
+<img src="images/photos/main21.jpg" class="invisible"  alt="ציור של דיאגו - מבצר נמרוד" title="ציור של דיאגו - מבצר נמרוד"/>
+<img src="images/photos/main22.jpg" class="invisible"  alt="קטיף פירות מהגינה שלנו" title="קטיף פירות מהגינה שלנו"/>
+</div><!-- slide show -->
+</div>
+<div id="thumbnails_panel">
+<img id="upper_gallery_strip" src="images/gallery_strip.png"/>
+<div id="thumbnails_toolbar">
+<img id="right_arrow" src="images/blank.gif" class="right_arrow"/>
+<div id="thumbnails">
+<div id="thumbnails_wrapper">
+<div class="thumbnail"><img src="images/thumbs/main1.jpg" alt="זריחה בגוונים צהובים" title="זריחה בגוונים צהובים"/></div>
+<div class="thumbnail"><img src="images/thumbs/main2.jpg" alt="שקיעה עם וניל" title="שקיעה עם וניל"/></div>
+<div class="thumbnail"><img src="images/thumbs/main3.jpg" alt="מבט למבצר נמרוד מתוך הספסל" title="מבט למבצר נמרוד מתוך הספסל"/></div>
+<div class="thumbnail"><img src="images/thumbs/main4.jpg" alt="זריחה על החלונות המזרחיים" title="זריחה על החלונות המזרחיים"/></div>
+<div class="thumbnail"><img src="images/thumbs/main5.jpg" alt="כיסא עמוד ונוף" title="כיסא עמוד ונוף"/></div>
+<div class="thumbnail"><img src="images/thumbs/main6.jpg" alt="הנוף מהחלון שליד הג'קוזי בבקתה 2" title="הנוף מהחלון שליד הג'קוזי בבקתה 2"/></div>
+<div class="thumbnail"><img src="images/thumbs/main7.jpg" alt="הבקתות מרחוק בין שני ברושים" title="הבקתות מרחוק בין שני ברושים"/></div>
+<div class="thumbnail"><img src="images/thumbs/main8.jpg" alt="בקתה מעבר לברוש בשלג" title="בקתה מעבר לברוש בשלג"/></div>
+<div class="thumbnail"><img src="images/thumbs/main9.jpg" alt="אח עצים דולק" title="אח עצים דולק"/></div>
+<div class="thumbnail"><img src="images/thumbs/main10.jpg" alt="בקתה 2 עם עננים והרי נפתלי ממול" title="בקתה 2 עם עננים והרי נפתלי ממול"/></div>
+<div class="thumbnail"><img src="images/thumbs/main11.jpg" alt="חדר מדרגות" title="חדר מדרגות"/></div>
+<div class="thumbnail"><img src="images/thumbs/main12.jpg" alt="חדר אוכל בקתה 2" title="חדר אוכל בקתה 2"/></div>
+<div class="thumbnail"><img src="images/thumbs/main13.jpg" alt="מטבח בקתה 2" title="מטבח בקתה 2"/></div>
+<div class="thumbnail"><img src="images/thumbs/main14.jpg" alt="נוף ירוק מחלון ג'קוזי בקתה 1" title="נוף ירוק מחלון ג'קוזי בקתה 1"/></div>
+<div class="thumbnail"><img src="images/thumbs/main15.jpg" alt="ויטראז' חדר מדרגות" title="ויטראז' חדר מדרגות"/></div>
+<div class="thumbnail"><img src="images/thumbs/main16.jpg" alt="חדר שינה" title="חדר שינה"/></div>
+<div class="thumbnail"><img src="images/thumbs/main17.jpg" alt="סלון בקתה 1" title="סלון בקתה 1"/></div>
+<div class="thumbnail"><img src="images/thumbs/main18.jpg" alt="שקיעה בין ענפי העץ" title="שקיעה בין ענפי העץ"/></div>
+<div class="thumbnail"><img src="images/thumbs/main19.jpg" alt="הבקתה מבחוץ" title="הבקתה מבחוץ"/></div>
+<div class="thumbnail"><img src="images/thumbs/main20.jpg" alt="נמרוד על הרכס מבין ענפי הזית בנבי חזורי" title="נמרוד על הרכס מבין ענפי הזית בנבי חזורי"/></div>
+<div class="thumbnail"><img src="images/thumbs/main21.jpg" alt="ציור של דיאגו - מבצר נמרוד" title="ציור של דיאגו - מבצר נמרוד"/></div>
+<div class="thumbnail"><img src="images/thumbs/main22.jpg" alt="קטיף פירות מהגינה שלנו" title="קטיף פירות מהגינה שלנו"/></div>
+</div><!-- thumbnails_wrapper -->
+</div><!-- thumbnails -->
+<img id="left_arrow" src="images/blank.gif" class="left_arrow"/>
+</div><!-- thumbnails_toolbar -->
+<img id="lower_gallery_strip" src="images/gallery_strip.png"/>
+</div><!-- thumbnails_panel -->
+</div><!-- left -->
+<div id="footer">
+<img src="images/footer_sep.png" class="sep_image"/>
+</div><!-- footer -->
+</div><!-- main -->
+<script type="text/javascript">
+var imageGallery = new ImageGallery({
+	slides: $$('#slideshow img'),
+	thumbnails: $$('#thumbnails_wrapper img'),
+	nextThumbnailLink: 'left_arrow',
+	prevThumbnailLink: 'right_arrow',
+	nextThumbnailLinkClass: 'left_arrow',
+	prevThumbnailLinkClass: 'right_arrow'
+});
+</script>
+</body>
+</html>
