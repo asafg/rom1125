@@ -49,25 +49,32 @@
 <div id="main">
 <!-- header -->
 <div id="header">
-<img id="logo" alt="rom1125" src="images/logo.png"/>
+<img id="logo" src="images/logo.png" alt="רום 1125"/>
 <div id="header_without_logo"><!-- The part of the header left of the logo -->
 <div id="header_top"><img src="images/header_top.png"/></div>
 <div id="toolbar_buttons">
-<a id="home_link" href="index.html"><img src="images/blank.gif" alt="רום 1125"/></a>
-<img src="images/biktot_hl.gif" alt="הבקתות"/>
-<a id="studio_link" href="studio.html"><img src="images/blank.gif" alt="הסטודיו"/></a>
-<img src="images/sviva.gif" alt="בסביבה"/>
-<img src="images/katvu.gif" alt="כתבו עלינו"/>
-<a id="prices_link" href="prices.html"><img src="images/blank.gif" alt="מחירים"/></a>
+<a href="index.html">רום 1125</a>
+<br/>הבקתות
+<br/><a href="studio.html">הסטודיו</a>
+<br/><a href="studio.html">בסביבה</a>
+<br/><a href="prices.html">יומן תפוסה<br/><span id="prices">ומחירים</span></a>
 </div><!-- toolbar_buttons -->
-<div class="header_image"><img src="images/header_right.jpg"/></div>
-<div class="header_image"><img src="images/header_middle.png"/></div>
-<div class="header_image"><img src="images/header_left.jpg"/></div>
-<div id="header_bottom"><img id="header_bottom_image" src="images/header_bottom.png"/></div>
+<div class="header_image" id="hdr_img_right"><img src="images/header_right.jpg"/></div>
+<div class="header_image" id="header_middle">
+רום 1125
+<br/>בקתות נופש בנמרוד
+<span class="hdr_number">
+057-4322999<br/>
+057-4322983
+</span>
+<span class="hdr_ad">
+	<a href="https://www.facebook.com/pages/%D7%91%D7%A7%D7%AA%D7%95%D7%AA-%D7%A0%D7%95%D7%A4%D7%A9-%D7%A8%D7%95%D7%9D-1125/122550181102811">צימר חינם <img src="images/fb.png"/></a>
+</span>
+</div>
+<div class="header_image" id="hdr_img_left"><img src="images/header_left.jpg"/></div>
+<img id="header_bottom" src="images/header_bottom.png"/>
 </div><!-- header_without_logo-->
-<div id="email_address_div">
-<a href="mailto:rom1125@gmail.com" class="email_address">rom1125@gmail.com</a>
-</div><!-- email_address_div -->
+<a id="email_address" href="mailto:michal.and.diego@gmail.com" class="email_address">michal.and.diego@gmail.com</a>
 </div><!-- header -->
 <!-- now for the separators -->
 <div id="right_part">
@@ -115,9 +122,9 @@
 </div><!-- vert_sep -->
 <div id="left_part">
 <img src="images/top_horiz_sep.png" class="sep_image"/>
-<div id="hut_links">
-	<a href="#" id="hut1" onclick="showHutGallery(1)"><img src="images/blank.gif"/></a>
-	<a href="#" id="hut2" onclick="showHutGallery(2)"><img src="images/blank.gif"/></a>
+<div id="hut_links" class="title">
+	<a href="#" id="hut1" class="active" onclick="showHutGallery(1)">בקתה 1</a>
+	<a href="#" id="hut2" onclick="showHutGallery(2)">בקתה 2</a>
 </div>
 <div id="photo_frame"><div id="photo_frame_overlay"></div>
 <div id="slideshow1">
@@ -240,9 +247,7 @@
 <img id="lower_gallery_strip2" src="images/gallery_strip.png"/>
 </div><!-- thumbnails_panel2 -->
 </div><!-- left -->
-<div id="footer">
-<img src="images/footer_sep.png" class="sep_image"/>
-</div><!-- footer -->
+<img id="footer" src="images/footer_sep.png" class="sep_image"/>
 </div><!-- main -->
 <script type="text/javascript">
 var hut1ImageGallery = new ImageGallery({

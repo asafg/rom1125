@@ -1,0 +1,217 @@
+@import url(http://fonts.googleapis.com/earlyaccess/alefhebrew.css);
+
+$bg-color: #EEE6C9;
+$active-color: #D16A1A;
+$toolbar-button-color: #4C0000;
+$toolbar-button-active-color: $active-color;
+$header-middle-color: #AA8546;
+$title-color: #AA8546;
+$title-active-color: $active-color;
+$email-color: #996600;
+$email-hover-color: $active-color;//#CC6600;
+
+body {
+  background-color: $bg-color;
+  margin: 0px;
+  padding: 0px;
+}
+
+#main {
+  width: 1000px;
+  height: 750px;
+  direction: rtl;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* beginning of header definitions */
+
+#header {
+  margin-top: 27px;
+}
+
+#logo {
+  display: inline-block;
+  margin-right: 40px;
+  margin-top: 13px;
+  vertical-align: top;
+}
+
+#header_without_logo {
+  display: inline-block;
+  margin: 0 21px 0 0;
+  padding: 0;
+  width: 834px;
+}
+
+#header_top {
+  margin: 0px;
+  padding: 0px;
+  height: 17px;
+  display: block;
+}
+
+#header_bottom {
+  display: inline-block;
+  margin: -5px 0 0;
+  vertical-align: top;
+}
+
+#header_bottom_image {
+  margin: 0px;
+  padding: 0px;
+  vertical-align: top;
+}
+
+.header_image {
+  display: inline-block;
+  height: 137px;
+  margin: 0px;
+  padding: 0px;  
+}
+
+#hdr_img_right {
+  margin: 0 0 0 -1px;
+}
+
+#header_middle {
+  background: url("../images/header_middle.png") no-repeat;
+  color: $header-middle-color;
+  font-family: "Alef Hebrew";
+  font-size: 11pt;
+  font-weight: bold;
+  height: 125px;
+  line-height: 16px;
+  margin: 0 -4px 0 0;
+  padding: 12px 0 0;
+  text-align: center;
+  vertical-align: top;
+  width: 143px;
+  
+  .hdr_number {
+    display: block;
+    margin: 5px 0 3px;
+  }
+}
+
+#hdr_img_left {
+  margin: 0 -5px 0 0;
+}
+
+.hdr_number {
+  font-family: "Arial Rounded MT Bold";
+  font-size: 15px;
+  line-height: 19px;
+}
+
+.hdr_ad img {
+    vertical-align: middle;
+}
+ 
+
+#toolbar_buttons {
+  color: $toolbar-button-active-color;
+  display: inline-block;
+  font-family: "Alef Hebrew";
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 21px;
+  margin: 5px 0 0 0;
+  vertical-align: top;
+}
+
+#header_middle a, #toolbar_buttons a {
+  color: $toolbar-button-color;
+  text-decoration: none;
+}
+
+#toolbar_buttons a:hover, #header_middle a:hover {
+  color: $toolbar-button-active-color;
+}
+
+#toolbar_buttons span#prices {
+  display: block;
+  margin: -6px 0 -2px 0;
+}
+
+#email_address {
+  display: block;  
+  font-family: arial, sans-serif;
+  font-size: 11px;  
+  margin: -10px auto 0;  
+  text-align: center;
+}
+
+a.email_address {
+  color: $email-color;
+  text-decoration: none;
+  &:hover {
+    color: $email-hover-color;
+  }
+}
+
+/* end of header definitions */
+
+.title {
+    background: none $bg-color;
+    color: $title-color;
+    display: block;
+    font-family: "Alef Hebrew";
+    font-size: 15px;
+    font-weight: bold;
+    
+    a {
+      color: $title-color;
+      text-decoration: none;
+      &:hover {
+        color: $active-color;
+      }
+      &.active {
+        color: $active-color;
+      }
+    }
+}
+
+#right_part {
+  margin-right: 40px;
+}
+
+#left_part, #right_part {
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: top;
+}
+
+#vert_sep {
+  display: inline-block;
+  margin: 14px 27px 0 28px;
+}
+
+#vert_bar {
+  width: 2px;
+  height: 440px;
+  margin: 0 1px 0 1px;
+  background-color: #cbb787;
+}
+
+.sep_image {
+  padding: 0;
+  display: block;
+}
+
+#footer {
+  margin: 0px 50px 0px 50px;
+  clear: both;
+}
+
+.invisible {
+  display: none;
+}
+
+.currentSlide {
+  /*
+  display: block;
+  opacity: 1;
+  visibility: visible;
+  */
+}

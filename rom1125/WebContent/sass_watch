@@ -1,0 +1,2 @@
+#!/bin/bash
+sass --watch -l -g -t expanded scss:css

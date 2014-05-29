@@ -1,0 +1,154 @@
+#frame {
+  background-image: url("../images/studio_frame.png");
+  background-repeat: no-repeat;
+  height: 217px;
+  margin: 0 0 0 69px;
+  padding: 0;
+  img {
+    display: block;
+    float: right;
+    margin: 8px 5px 0 0;
+    &.first_photo {
+      margin-right: 77px;
+    }
+  }
+}
+
+img#prices_wide_photo {
+  margin: 6px 76px;
+}
+
+#bottom_right_part {
+  margin-right: 51px;
+}
+
+#bottom_left_part, #bottom_right_part {
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: top;
+}
+
+
+#top_vert_sep {
+  display: inline-block;
+  margin: 14px 28px -4px;
+  vertical-align: top;
+
+}
+
+#top_vert_bar, #bottom_vert_bar {
+  width: 2px;
+  margin: 0 1px 0 1px;
+  background-color: #cbb787;
+}
+
+#top_vert_bar {
+  display: inline-block;
+  height: 35px;
+}
+
+#bottom_vert_bar {
+  height: 188px;
+}
+
+#bottom_vert_sep {
+  display: inline-block;
+  margin: 0 28px;
+  vertical-align: top;
+}
+
+#right_page_text, #left_page_text {
+  display: inline-block;
+  margin-top: 13px;
+}
+
+.asterisk_text {
+  color: #b09d67;
+}
+
+.page_text {
+  background-image: url("../images/dashed_line.png");
+  background-repeat: repeat-y;
+  color: #330000;
+  font-family: arial;
+  font-size: 12px;
+  line-height: 200%;
+  width: 340px;
+}
+
+#studio_ext_link {
+  margin: 1px 2px 0 0;
+}
+
+.left_arrow_small {
+  background-image: url("../images/left_arrow_small.png");
+  border: 0;
+  height: 9px;
+  margin: 0 0 0 7px;
+  width: 19px;
+}
+
+a:hover img.left_arrow_small {
+  background-image: url("../images/left_arrow_small_hl.png");
+}
+
+#studio_link_image {
+  background-image: url("../images/studio_link.png");
+  border: 0;
+  height: 10px;
+  width: 144px;
+}
+
+a:hover #studio_link_image {
+  background-image: url("../images/studio_link_hl.png");
+}
+
+#right_studio_orn {
+  display: inline-block;
+  margin: 88px 28px 0 11px;
+  vertical-align: top;
+}
+
+#left_studio_orn {
+  display: inline-block;
+  margin: 88px 11px 0 0;
+  vertical-align: top;
+}
+
+img.title {
+  margin: 3px 0 0 0;
+  vertical-align: top;
+}
+
+#footer {
+  padding-top: 10px;
+}
+
+.text_column {
+  background-image: url("../images/dashed_line.png");
+  background-repeat: repeat-y;
+  float: right;
+  width: 205px;
+  height: 409px;
+  border: 0px solid black;
+}
+
+#columns_spacer {
+  float: right;
+  width: 16px;
+  height: 409px;
+  border: 0px solid green;
+}
+
+.left_text {
+  /* empty intentionally - needed only to work around IE7 bugs */
+}
+
+#cal {
+  background-color: #EEE6C9;
+  border: 2px solid #AA8546;
+  padding-top: 1px;
+  position: relative;
+  right: 669px;
+  top: -211px;
+}
