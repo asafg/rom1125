@@ -12,7 +12,12 @@
       margin-right: 77px;
     }
   }
+  &.studio {
+    margin: 0 0 1px 69px;
+  }
 }
+
+
 
 img#prices_wide_photo {
   margin: 6px 76px;
@@ -122,6 +127,9 @@ img.title {
 
 #footer {
   padding-top: 10px;
+  &.studio {
+    margin: 22px 50px  
+  }
 }
 
 .text_column {
