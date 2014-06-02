@@ -1,7 +1,7 @@
 rom1125/WebContent/css/*
 rom1125/WebContent/fonts/*
-rom1125/WebContent/.sass-cache/*
 RemoteSystemsTempFiles/*
 .metadata/**
+.sass-cache/*
 *~
 **/.directory
