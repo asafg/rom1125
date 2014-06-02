@@ -10,11 +10,7 @@ $title-active-color: $active-color;
 $email-color: #996600;
 $email-hover-color: $active-color;//#CC6600;
 
-body {
-  background-color: $bg-color;
-  margin: 0px;
-  padding: 0px;
-}
+body {background-color: $bg-color;}
 
 #main {
   width: 1000px;
@@ -22,123 +18,88 @@ body {
   direction: rtl;
   margin-left: auto;
   margin-right: auto;
+  padding: 0 40px;
 }
 
-/* beginning of header definitions */
+// beginning of header definitions
 
 #header {
+  font-family: "Alef Hebrew";
+  font-weight: bold;
   margin-top: 27px;
+
+  div {
+    display: inline-block;
+    vertical-align: top;
+  }
+  img { vertical-align: top; }
 }
 
 #logo {
-  display: inline-block;
-  margin-right: 40px;
-  margin-top: 13px;
-  vertical-align: top;
+  margin: 13px 40px 0 26px;
 }
 
 #header_without_logo {
-  display: inline-block;
-  margin: 0 21px 0 0;
-  padding: 0;
-  width: 834px;
+  margin: 0 -4px 0 0;
+  width: 833px;
 }
 
-#header_top {
-  margin: 0px;
-  padding: 0px;
-  height: 17px;
-  display: block;
+#header_left_image {
+  margin: 0 -4px 0 0;
 }
 
-#header_bottom {
-  display: inline-block;
-  margin: -5px 0 0;
-  vertical-align: top;
-}
-
-#header_bottom_image {
-  margin: 0px;
-  padding: 0px;
-  vertical-align: top;
-}
-
-.header_image {
-  display: inline-block;
-  height: 137px;
-  margin: 0px;
-  padding: 0px;  
-}
-
-#hdr_img_right {
-  margin: 0 0 0 -1px;
+#header_right_image {
+  margin: 0 1px 0 -5px;
 }
 
 #header_middle {
   background: url("../images/header_middle.png") no-repeat;
-  color: $header-middle-color;
-  font-family: "Alef Hebrew";
+  color: $header-middle-color;  
   font-size: 11pt;
-  font-weight: bold;
   height: 125px;
   line-height: 16px;
-  margin: 0 -4px 0 0;
-  padding: 12px 0 0;
+  padding: 12px 11px 0;
   text-align: center;
-  vertical-align: top;
-  width: 143px;
   
   .hdr_number {
     display: block;
+    font-family: "Arial Rounded MT Bold";
+    font-size: 15px;
+    line-height: 19px;
     margin: 5px 0 3px;
   }
 }
 
-#hdr_img_left {
-  margin: 0 -5px 0 0;
-}
-
-.hdr_number {
-  font-family: "Arial Rounded MT Bold";
-  font-size: 15px;
-  line-height: 19px;
-}
-
-.hdr_ad img {
+.hdr_ad {
+  a:hover {}
+  img {
     vertical-align: middle;
+  }
 }
- 
 
 #toolbar_buttons {
   color: $toolbar-button-active-color;
-  display: inline-block;
-  font-family: "Alef Hebrew";
-  font-size: 16px;
-  font-weight: bold;
+  font-size: 16px;  
   line-height: 21px;
   margin: 5px 0 0 0;
-  vertical-align: top;
 }
 
 #header_middle a, #toolbar_buttons a {
   color: $toolbar-button-color;
   text-decoration: none;
+  &:hover {
+   color: $toolbar-button-active-color;
+  }
 }
 
-#toolbar_buttons a:hover, #header_middle a:hover {
-  color: $toolbar-button-active-color;
-}
-
-#toolbar_buttons span#prices {
-  display: block;
-  margin: -6px 0 -2px 0;
-}
+#header_bottom { margin: -1px 0 0; }
 
 #email_address {
   display: block;  
   font-family: arial, sans-serif;
   font-size: 11px;  
-  margin: -10px auto 0;  
+  font-weight: normal;
+  margin: -3px auto 1px;  
   text-align: center;
 }
 
@@ -150,7 +111,7 @@ a.email_address {
   }
 }
 
-/* end of header definitions */
+// end of header definitions
 
 .title {
     background: none $bg-color;
@@ -201,17 +162,8 @@ a.email_address {
 
 #footer {
   margin: 0px 50px 0px 50px;
-  clear: both;
 }
 
 .invisible {
   display: none;
-}
-
-.currentSlide {
-  /*
-  display: block;
-  opacity: 1;
-  visibility: visible;
-  */
 }

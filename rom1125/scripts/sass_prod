@@ -2,4 +2,4 @@
 my_path="$(which "$0")"
 my_dir_path="$(dirname "$my_path")"
 web_content_path="$(cd "$my_dir_path/../WebContent" 2>/dev/null; echo "$PWD")"
-sass --update -f -t expanded $web_content_path/scss:$web_content_path/css
+sass --update -f -t compressed $web_content_path/scss:$web_content_path/css

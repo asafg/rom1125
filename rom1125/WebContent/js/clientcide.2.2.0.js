@@ -67,10 +67,6 @@ var SimpleSlideShow = new Class({
 		prevLink: false,
 		wrap: true,
 		disabledLinkClass: 'disabled',
-//		onNext: $empty,
-//		onPrev: $empty,
-//		onSlideClick: $empty,
-//		onSlideDisplay: $empty,
 		crossFadeOptions: {}
 	},
 	initialize: function(options){
@@ -121,7 +117,7 @@ var SimpleSlideShow = new Class({
 			if (prev) prev.removeClass(dlc);
 			if (now === this.slides.length-1 && next) next.addClass(dlc);
 			else if (next) next.removeClass(dlc);
-		}	else { //now is zero
+		} else { //now is zero
 			if (this.slides.length > 0 && next) next.removeClass(dlc);
 			if (prev) prev.addClass(dlc);
 		}
