@@ -111,6 +111,12 @@ a.email_address {
   }
 }
 
+// Hack for our friends IE10 and IE11
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  @import 'ie9-11';
+}
+
+
 // end of header definitions
 
 .title {

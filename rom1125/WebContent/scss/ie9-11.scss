@@ -1,0 +1,17 @@
+#header_left_image {
+  margin: 0 -4px 0 -1px !important;
+}
+
+#header_right_image {
+  margin: 0 -2px 0 -5px !important;
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  #header_left_image, #header_left_image {
+    margin: 0 -4px 0 -1px !important;
+  }
+
+  #header_right_image {
+    margin: 0 -2px 0 -5px !important;
+  }
+}
