@@ -82,6 +82,10 @@ body {background-color: $bg-color;}
   font-size: 16px;  
   line-height: 21px;
   margin: 5px 0 0 0;
+  span#prices {
+    display: block;
+    margin: -6px 0 -2px 0;
+  }
 }
 
 #header_middle a, #toolbar_buttons a {
