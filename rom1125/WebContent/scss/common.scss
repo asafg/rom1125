@@ -1,14 +1,5 @@
 @import url(http://fonts.googleapis.com/earlyaccess/alefhebrew.css);
-
-$bg-color: #EEE6C9;
-$active-color: #D16A1A;
-$toolbar-button-color: #4C0000;
-$toolbar-button-active-color: $active-color;
-$header-middle-color: #AA8546;
-$title-color: #AA8546;
-$title-active-color: $active-color;
-$email-color: #996600;
-$email-hover-color: $active-color;//#CC6600;
+@import 'common-variables';
 
 body {background-color: $bg-color;}
 
@@ -141,6 +132,11 @@ a.email_address {
         color: $active-color;
       }
     }
+    
+    sup {
+      color: $asterisk-text-color;
+      font-size: 13px;
+    }    
 }
 
 #right_part {

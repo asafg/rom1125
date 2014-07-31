@@ -1,3 +1,5 @@
+@import 'common-variables';
+
 #frame {
   background-image: url("../images/studio_frame.png");
   background-repeat: no-repeat;
@@ -67,8 +69,11 @@ img#prices_wide_photo {
   margin-top: 13px;
 }
 
+
+
 .asterisk_text {
-  color: #b09d67;
+  font-size: 11px;
+  color: $asterisk-text-color;
 }
 
 .page_text {
@@ -138,14 +143,12 @@ img.title {
   float: right;
   width: 205px;
   height: 409px;
-  border: 0px solid black;
 }
 
 #columns_spacer {
   float: right;
   width: 16px;
   height: 409px;
-  border: 0px solid green;
 }
 
 .left_text {
