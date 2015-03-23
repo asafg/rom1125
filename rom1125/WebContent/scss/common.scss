@@ -36,11 +36,11 @@ body {background-color: $bg-color;}
 }
 
 #header_left_image {
-  margin: 0 -4px 0 0;
+  margin: 0 -4px 0 -1px;
 }
 
 #header_right_image {
-  margin: 0 1px 0 -5px;
+  margin: 0 1px 0 -4px;
 }
 
 #header_middle {
@@ -49,9 +49,10 @@ body {background-color: $bg-color;}
   font-size: 11pt;
   height: 125px;
   line-height: 16px;
-  padding: 12px 11px 0;
+  padding: 12px 0 0;
   text-align: center;
-  
+  width: 143px;
+
   .hdr_number {
     display: block;
     font-family: "Arial Rounded MT Bold";
