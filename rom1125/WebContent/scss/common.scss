@@ -43,6 +43,15 @@ body {background-color: $bg-color;}
   margin: 0 1px 0 -4px;
 }
 
+//for Chrome on Windows 7 and up
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+
+  #header_right_image {
+    margin: 0 1px 0 -5px;
+  }
+
+}
+
 #header_middle {
   background: url("../images/header_middle.png") no-repeat;
   color: $header-middle-color;  
